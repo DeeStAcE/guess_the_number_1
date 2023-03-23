@@ -25,4 +25,5 @@ def check_the_numbers():
     print('You win!')
 
 
-check_the_numbers()
+if __name__ == '__main__':
+    check_the_numbers()
